@@ -18,8 +18,8 @@
   <img width="12"/>
   <img src="https://npjprojecao.com.br/pje/public/images/logo-uniprojecao.png" height="40" alt="aws logo"/>
   <img width="12"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbSvR-di_vzggFZI8wWH8KoU6CBlGAgc_aw&s" height="30" alt="aws logo"/>
-  <img width="12"/>
+
+  
   <br>
   
   
