@@ -9,15 +9,17 @@
    <li>🎓 Desenvolvedor em formação cursando bacharelado em Sistemas de Informação (4° semestre)</li>
    <li>📚 Cursando Desenvolvedor Java, Php, Front-End e Banco de Dados no SENAI-DF</li>
  </ul>
-  
-  <img src="https://www.imagemhost.com.br/images/2024/11/22/Logo-novo-SENAI_-sem-slogan_755X325.png" height="40" alt="senai logo"/>
-  <img width="12"/>
-  <img src="https://josecastillolema.github.io/assets/images/posts/2020-07-09-aws-academy/01.png" height="30" alt="aws logo"/>
-  <img width="12"/>
-  <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="aws logo"/>
-  <img width="12"/>
-  <img src="https://npjprojecao.com.br/pje/public/images/logo-uniprojecao.png" height="40" alt="aws logo"/>
-  <img width="12"/>
+
+  <div align="center" style:"display : inline-block">
+    <img src="https://www.imagemhost.com.br/images/2024/11/22/Logo-novo-SENAI_-sem-slogan_755X325.png" height="40" alt="senai logo"/>
+    <img width="12"/>
+    <img src="https://josecastillolema.github.io/assets/images/posts/2020-07-09-aws-academy/01.png" height="30" alt="aws logo"/>
+    <img width="12"/>
+    <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="aws logo"/>
+    <img width="12"/>
+    <img src="https://npjprojecao.com.br/pje/public/images/logo-uniprojecao.png" height="40" alt="aws logo"/>
+    <img width="12"/>
+  </div>
 
   
   <br>
