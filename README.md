@@ -6,7 +6,7 @@
   <p>
   </p>
  <ul>
-   <li>🎓 Desenvolvedor em formação cursando bacharelado em Sistemas de Informação (4° semestre)</li>
+   <li>🎓 Desenvolvedor em formação cursando bacharelado em Sistemas de Informação (5° semestre)</li>
    <li>📚 Desenvolvedor Java, Back-End, Front-End e Banco de Dados certificado no SENAI-DF</li>
  </ul>
 
