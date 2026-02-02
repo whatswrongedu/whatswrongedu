@@ -15,9 +15,9 @@
     <img width="12"/>
     <img src="https://josecastillolema.github.io/assets/images/posts/2020-07-09-aws-academy/01.png" height="30" alt="aws logo"/>
     <img width="12"/>
-    <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="aws logo"/>
+    <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="udemy logo"/>
     <img width="12"/>
-    <img src="https://npjprojecao.com.br/pje/public/images/logo-uniprojecao.png" height="40" alt="aws logo"/>
+    <img src="https://npjprojecao.com.br/pje/public/images/logo-uniprojecao.png" height="40" alt="uniprojecao logo"/>
     <img width="12"/>
   </div>
 
@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" alt="java logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="docker logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
   <img width="12"/>
