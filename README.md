@@ -30,7 +30,7 @@
 * 🧠 **Learning:** Industrial **Artificial Intelligence** in Python & DevOps.
 * 📜 **Certified:** Full Stack Dev by **Udemy** & **SENAI** & Cloud Foundations by **AWS**.
 
-<h4>Finde me 📬</h4>
+<h4>Find me 📬</h4>
 <div align="left">
  <a href="https://www.linkedin.com/in/eduardo-cruz-130a8a365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="eduardoscruz1105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">    </a>
