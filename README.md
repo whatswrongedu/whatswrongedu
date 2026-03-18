@@ -1,5 +1,4 @@
-## Hello world, welcome to my Portfolio 👋
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh3cGtidmt2cmM4aDVkbDhpaXc1eGZlYXJ1N2Y1bnVpbHhrM3BvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osBLqF9kpJdlZm8vu/giphy.gif" align="right" width="280"/> 
+## Hello world, welcome to my Portfolio 👋 
   
   <div>
     <p align="justify">
@@ -20,7 +19,9 @@
     <img src="https://npjprojecao.com.br/pje/public/images/logo-uniprojecao.png" height="40" alt="uniprojecao logo"/>
     <img width="12"/>
   </div>
-  
+
+  <img src=https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif align="right" width="196"/>
+
 ### What I am doing now? 🌱
 
 * 🎓 **Studying:** Information Systems at UniProjeção (5th Semester).
