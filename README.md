@@ -21,8 +21,6 @@
     <img width="12"/>
   </div>
   
-<img src=https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif align="right" width="196"/> 
-
 ### What I am doing now? 🌱
 
 * 🎓 **Studying:** Information Systems at UniProjeção (5th Semester).
